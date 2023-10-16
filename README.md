@@ -33,21 +33,23 @@
 
 #### **例1：DSC01685.jpg** 
 
-> <img src="./images/image-20231014172410775.png"/>
+<img src="./images/image-20231014172410775.png"/>
 
 ---
 
 
 
 **例2：DSC03228.jpg**
-> <img src="./images/image-20231014173438437.png"/>
+
+<img src="./images/image-20231014173438437.png"/>
 
 ---
 
 
 
 **例3：DSC03293.jpg**
-> <img src="./images/image-20231014173526451.png"/>
+
+<img src="./images/image-20231014173526451.png"/>
 
 ---
 
@@ -56,7 +58,7 @@
 ### **（2）严重失焦**
 
 **例1：DSC02748.jpg**
-
+>
 <img src="./images/image-20231014173710921.png"/>
 >
 <img src="./images/image-20231014173722721.png"/>
