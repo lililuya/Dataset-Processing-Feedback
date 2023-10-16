@@ -34,7 +34,7 @@
 #### **例1：DSC01685.jpg** 
 
 <img src="./images/image-20231014172410775.png"/>
-> ![image-20231014172410775]([./images/image-20231014172410775.png](https://github.com/lililuya/Dataset-Processing-Feedback/blob/main/images/image-20231014172410775.png))
+> ![image-20231014172410775](https://github.com/lililuya/Dataset-Processing-Feedback/blob/main/images/image-20231014172410775.png)
 
 ---
 
