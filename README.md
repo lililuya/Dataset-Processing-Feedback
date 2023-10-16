@@ -58,9 +58,9 @@
 ### **（2）严重失焦**
 
 **例1：DSC02748.jpg**
->
+
 <img src="./images/image-20231014173710921.png"/>
->
+
 <img src="./images/image-20231014173722721.png"/>
 
 ----
@@ -70,6 +70,7 @@
 ### **（3）遮挡面积过大**   
 
   **例1：DSC02204.jpg**
+  
 <img src="./images/image-20231014174017906.png"/>
 
 ---
@@ -77,6 +78,7 @@
 
 
 **例2：DSC02956.jpg**
+
 <img src="./images/image-20231014174032229.png"/>
 
 ---
@@ -84,6 +86,7 @@
 
 
 **例3：DSC03079.jpg**
+
 <img src="./images/image-20231014174041427.png"/>
 
 ---
@@ -91,6 +94,7 @@
 
 
 **例4：DSC02530.jpg**
+
 <img src="./images/image-20231014174050160.png"/>
 
 ---
@@ -98,6 +102,7 @@
 
 
 **例5：DSC04305.jpg**
+
 <img src="./images/image-20231014174058433.png"/>
 
 ---
@@ -105,6 +110,7 @@
 
 
 **例6：DSC04304.jpg**
+
 <img src="./images/image-20231014174115117.png"/>
 
 ----
@@ -112,6 +118,7 @@
 
 
 **例7：DSC03152.jpg**
+
 <img src="./images/image-20231014174127346.png"/>
 
 ---
@@ -131,6 +138,7 @@
 ### **（5）运动模糊**
 
 **例1：DSC01974.jpg**
+
 <img src="./images/image-20231014181148594.png"/>
 >
 <img src="./images/image-20231014181154952.png"/>
@@ -141,7 +149,7 @@
 
  **例2：DSC01970.jpg**
 <img src="./images/image-20231014181209619.png"/>
->
+
 <img src="./images/image-20231014181213498.png"/>
 
 ---
@@ -149,8 +157,9 @@
 
 
   **例3：DSC02021.jpg**
+  
 <img src="./images/image-20231014181223340.png"/>
->
+
 <img src="./images/image-20231014181227753.png"/>
 
 ---
@@ -158,8 +167,9 @@
 
 
 **例4：DSC01666.jpg**
+
 <img src="./images/image-20231014181541051.png"/>
->
+
 <img src="./images/image-20231014182016425.png"/>
 
 ---
@@ -167,8 +177,9 @@
 
 
 **例5：DSC01698.jpg**
+
 <img src="./images/image-20231014182028138.png"/>
->
+
 <img src=./images/image-20231014182032690.png"/>
 
 ---
@@ -176,8 +187,9 @@
 
 
 **例6：DSC01879.jpg**
+
 <img src="./images/image-20231014182049075.png"/>
->
+
 <img src="./images/image-20231014182053824.png"/>
 
 ---
@@ -185,8 +197,9 @@
 
 
 **例7：DSC01885.jpg**
+
 <img src="./images/image-20231014182106059.png"/>
->
+
 <img src="./images/image-20231014182111422.png"/>
 
 ---
@@ -194,6 +207,7 @@
 
 
 **例8：DSC01892.jpg**
+
 <img src="./images/image-20231014182121307.png"/>
 
 ---
@@ -201,8 +215,9 @@
 
 
 **例9：DSC02748.jpg**
+
 <img src="./images/image-20231014182130118.png"/>
->
+
 <img src="./images/image-20231014182136517.png"/>
 
 ---
@@ -210,8 +225,9 @@
 
 
 **例10：DSC02911.jpg**
+
 <img src="./images/image-20231014182146274.png"/>
->
+
 <img src="./images/image-20231014182152602.png"/>
 
 ---
@@ -219,8 +235,9 @@
 
 
 **例11：DSC03174.jpg**
+
 <img src="./images/image-20231014182243581.png"/>
->
+
 <img src="./images/image-20231014182248412.png"/>
 
 ---
@@ -228,13 +245,15 @@
 
 
 **例12：DSC03286.jpg**
+
 <img src="./images/image-20231014182301366.png"/>
->
+
 <img src="./images/image-20231014182305062.png"/>
 
 ### **（6）单个ID数据过少**
 
 **例1：DSC03798.jpg（2张）**
+
 <img src="./images/image-20231014182328479.png"/>
 
 ---
