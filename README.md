@@ -181,7 +181,7 @@
 
 <img src="./images/image-20231014182028138.png"/>
 
-<img src=./images/image-20231014182032690.png"/>
+<img src="./images/image-20231014182032690.png"/>
 
 ---
 
