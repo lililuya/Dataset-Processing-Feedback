@@ -34,23 +34,20 @@
 #### **例1：DSC01685.jpg** 
 
 <img src="./images/image-20231014172410775.png"/>
-> ![image-20231014172410775](https://github.com/lililuya/Dataset-Processing-Feedback/blob/main/images/image-20231014172410775.png)
 
 ---
 
 
 
 **例2：DSC03228.jpg**
-
-> ![image-20231014173438437](./images/image-20231014173438437.png)
+<img src="./images/image-20231014173438437.png"/>
 
 ---
 
 
 
 **例3：DSC03293.jpg**
-
-> ![image-20231014173526451](./images/image-20231014173526451.png)
+<img src="./images/image-20231014173526451.png"/>
 
 ---
 
@@ -60,9 +57,9 @@
 
 **例1：DSC02748.jpg**
 
-> ![image-20231014173710921](./images/image-20231014173710921.png)
+<img src="./images/image-20231014173710921.png"/>
 >
-> ![image-20231014173722721](./images/image-20231014173722721.png)
+<img src="./images/image-20231014173722721.png"/>
 
 ----
 
@@ -71,56 +68,49 @@
 ### **（3）遮挡面积过大**   
 
   **例1：DSC02204.jpg**
-
-> ![image-20231014174017906](./images/image-20231014174017906.png)
+<img src="./images/image-20231014174017906.png"/>
 
 ---
 
 
 
 **例2：DSC02956.jpg**
-
-> ![image-20231014174032229](./images/image-20231014174032229.png)
+<img src="./images/image-20231014174032229.png"/>
 
 ---
 
 
 
 **例3：DSC03079.jpg**
-
-> ![image-20231014174041427](./images/image-20231014174041427.png)
+<img src="./images/image-20231014174041427.png"/>
 
 ---
 
 
 
 **例4：DSC02530.jpg**
-
-> ![image-20231014174050160](./images/image-20231014174050160.png)
+<img src="./images/image-20231014174050160.png"/>
 
 ---
 
 
 
 **例5：DSC04305.jpg**
-
-> ![image-20231014174058433](./images/image-20231014174058433.png)
+<img src="./images/image-20231014174058433.png"/>
 
 ---
 
 
 
 **例6：DSC04304.jpg**
-
-> ![image-20231014174115117](./images/image-20231014174115117.png)
+<img src="./images/image-20231014174115117.png"/>
 
 ----
 
 
 
 **例7：DSC03152.jpg**
-
-> ![image-20231014174127346](./images/image-20231014174127346.png)
+<img src="./images/image-20231014174127346.png"/>
 
 ---
 
@@ -130,7 +120,7 @@
 
 **例1：DSC03136.jpg**
 
-> ![image-20231014180745947](./images/image-20231014180745947.png)
+<img src="./images/image-20231014180745947.png"/>
 
 ---
 
@@ -139,124 +129,111 @@
 ### **（5）运动模糊**
 
 **例1：DSC01974.jpg**
-
-> ![image-20231014181148594](./images/image-20231014181148594.png)
+<img src="./images/image-20231014181148594.png"/>
 >
-> <img src="./images/image-20231014181154952.png" alt="image-20231014181154952" style="zoom: 80%;" />
+<img src="./images/image-20231014181154952.png"/>
 
 ---
 
 
 
  **例2：DSC01970.jpg**
-
-> ![image-20231014181209619](./images/image-20231014181209619.png)
+<img src="./images/image-20231014181209619.png"/>
 >
-> ![image-20231014181213498](./images/image-20231014181213498.png)
+<img src="./images/image-20231014181213498.png"/>
 
 ---
 
 
 
   **例3：DSC02021.jpg**
-
-> ![image-20231014181223340](./images/image-20231014181223340.png)
+<img src="./images/image-20231014181223340.png"/>
 >
-> ![image-20231014181227753](./images/image-20231014181227753.png)
+<img src="./images/image-20231014181227753.png"/>
 
 ---
 
 
 
 **例4：DSC01666.jpg**
-
-> ![image-20231014181541051](./images/image-20231014181541051.png)
+<img src="./images/image-20231014181541051.png"/>
 >
-> ![image-20231014182016425](./images/image-20231014182016425.png)
+<img src="./images/image-20231014182016425.png"/>
 
 ---
 
 
 
 **例5：DSC01698.jpg**
-
-> ![image-20231014182028138](./images/image-20231014182028138.png)
+<img src="./images/image-20231014182028138.png"/>
 >
-> ![image-20231014182032690](./images/image-20231014182032690.png)
+<img src=./images/image-20231014182032690.png"/>
 
 ---
 
 
 
 **例6：DSC01879.jpg**
-
-> ![image-20231014182049075](./images/image-20231014182049075.png)
+<img src="./images/image-20231014182049075.png"/>
 >
-> ![image-20231014182053824](./images/image-20231014182053824.png)
+<img src="./images/image-20231014182053824.png"/>
 
 ---
 
 
 
 **例7：DSC01885.jpg**
-
-> ![image-20231014182106059](./images/image-20231014182106059.png)
+<img src="./images/image-20231014182106059.png"/>
 >
-> ![image-20231014182111422](./images/image-20231014182111422.png)
+<img src="./images/image-20231014182111422.png"/>
 
 ---
 
 
 
 **例8：DSC01892.jpg**
-
-> ![image-20231014182121307](./images/image-20231014182121307.png)
+<img src="./images/image-20231014182121307.png"/>
 
 ---
 
 
 
-**例9：DSC02748**\
-
-> ![image-20231014182130118](./images/image-20231014182130118.png)
+**例9：DSC02748.jpg**
+<img src="./images/image-20231014182130118.png"/>
 >
-> ![image-20231014182136517](./images/image-20231014182136517.png)
+<img src="./images/image-20231014182136517.png"/>
 
 ---
 
 
 
 **例10：DSC02911.jpg**
-
-> ![image-20231014182146274](./images/image-20231014182146274.png)
+<img src="./images/image-20231014182146274.png"/>
 >
-> ![image-20231014182152602](./images/image-20231014182152602.png)
+<img src="./images/image-20231014182152602.png"/>
 
 ---
 
 
 
 **例11：DSC03174.jpg**
-
-> ![image-20231014182243581](./images/image-20231014182243581.png)
+<img src="./images/image-20231014182243581.png"/>
 >
-> ![image-20231014182248412](./images/image-20231014182248412.png)
+<img src="./images/image-20231014182248412.png"/>
 
 ---
 
 
 
 **例12：DSC03286.jpg**
-
-> ![image-20231014182301366](./images/image-20231014182301366.png)
+<img src="./images/image-20231014182301366.png"/>
 >
-> ![image-20231014182305062](./images/image-20231014182305062.png)
+<img src="./images/image-20231014182305062.png"/>
 
 ### **（6）单个ID数据过少**
 
 **例1：DSC03798.jpg（2张）**
-
-> ![image-20231014182328479](./images/image-20231014182328479.png)
+<img src="./images/image-20231014182328479.png"/>
 
 ---
 
