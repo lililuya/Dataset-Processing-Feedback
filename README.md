@@ -1,6 +1,6 @@
 # Dataset-Processing-Feedback
 ## What's this repository for?
-+ Processing the 'old men' data and providing a feedback for the photographers who collecting the 'old men' image data.
++ Processing the 'old people' data and providing a feedback for the photographers who collecting the 'old people' image data.
 ## Description the issue
 + Centralized Issues in Data Collection.
 +   Colors too dark: Facial features are barely distinguishable.
